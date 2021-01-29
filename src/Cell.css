@@ -1,0 +1,13 @@
+.Cell {
+  box-sizing: border-box;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(54, 54, 54);
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.Cell-lit {
+  background-color: rgb(47, 120, 255);
+  border: 7px solid rgb(95, 177, 255);
+}
